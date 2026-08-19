@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mrtabatabaei
-- 👀 I’m interested in AlgoTrading 
-- 🌱 I’m currently learning Julia
-- 💞️ I’m looking to collaborate on AlgoTrading DashBoard
-- 📫 Reach me on telegram with MRTabatabaei ID
+- 👀 I’m interested in technology
+- 🌱 I’m currently developing Investore
+- 💞️ I’m looking to collaborate on AlgoTrading 
+- 📫 email@mrtabatabaei.ir
 
 <!---
 mrtabatabaei/mrtabatabaei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
